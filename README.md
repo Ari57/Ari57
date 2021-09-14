@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ari57
-- 👀 I'm aiming for a Software Development apprenticeship
-- 🌱 I’m currently learning Java and Python
+- 👀 Currently in a Software Development apprenticeship
+- 🌱 I’m currently learning C and Python
 - 📫 How to reach me - My email is njds7777@gmail.com
 
 <!---
