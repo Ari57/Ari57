@@ -1,6 +1,4 @@
 - 👋 Hi, I’m Ari57
-- 👀 Currently in a Software Development apprenticeship
-- 🌱 I’m currently learning Java and JavaScript
 - 📫 How to reach me - My email is njds7777@gmail.com
 
 <!---
